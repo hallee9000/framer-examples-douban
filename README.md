@@ -4,6 +4,6 @@
 
 ## 专栏目录
 
-1.[Why Framer ?](https://read.douban.com/reader/column/6650494/chapter/34040369/)
-2.[像写文章一样写代码（上）](https://read.douban.com/reader/column/6650494/chapter/33989520/)
-3.
+* [Why Framer ?](https://read.douban.com/reader/column/6650494/chapter/34040369/)
+* [像写文章一样写代码（上）](https://read.douban.com/reader/column/6650494/chapter/33989520/)
+* [像写文章一样写代码（下）](https://read.douban.com/reader/column/6650494/chapter/34580445/)
