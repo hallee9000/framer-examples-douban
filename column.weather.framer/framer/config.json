@@ -1,19 +1,20 @@
 {
   "orientation" : 90,
   "updateDelay" : 0.3,
-  "designModeSelected" : 1,
+  "designModeSelected" : 0,
   "cachedDeviceHeight" : 768,
   "contentScale" : 1,
   "fullScreen" : false,
   "cachedDeviceWidth" : 1024,
+  "deviceType" : "apple-ipad-mini-4-space-gray",
   "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
-
+    "Filters" : true
   },
-  "deviceType" : "apple-ipad-mini-4-space-gray",
   "projectId" : "5AC5BA3E-5BD6-47ED-B54B-2E20B0ACC2D8",
   "deviceOrientation" : 90,
   "selectedHand" : "",
+  "showBezel" : 0,
   "foldedCodeRanges" : [
 
   ],
