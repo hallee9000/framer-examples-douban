@@ -1,22 +1,24 @@
 {
-  "orientation" : 90,
+  "orientation" : 0,
   "updateDelay" : 0.3,
   "designModeSelected" : 0,
-  "cachedDeviceHeight" : 768,
+  "cachedDeviceHeight" : 1024,
   "contentScale" : 1,
   "fullScreen" : false,
-  "cachedDeviceWidth" : 1024,
-  "deviceType" : "apple-ipad-mini-4-space-gray",
+  "cachedDeviceWidth" : 768,
+  "deviceType" : "apple-ipad-air-2-space-gray",
   "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
     "Filters" : true
   },
   "projectId" : "5AC5BA3E-5BD6-47ED-B54B-2E20B0ACC2D8",
-  "deviceOrientation" : 90,
+  "deviceOrientation" : 0,
   "selectedHand" : "",
   "showBezel" : 0,
   "foldedCodeRanges" : [
-
+    "{7, 396}",
+    "{414, 323}",
+    "{748, 405}"
   ],
   "deviceScale" : "fit"
 }

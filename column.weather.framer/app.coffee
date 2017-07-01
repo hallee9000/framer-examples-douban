@@ -1,5 +1,6 @@
 # 绘制图层
 light = []
+animationLight = []
 
 for i in [0..7]
 	light[i] = new Layer
@@ -17,6 +18,10 @@ for i in [0..7]
 		animationOptions:
 			time: 4
 	light[i].animate("night")
+	animationLight[i] = new Animation light[i],
+		opacity: 1
+		options:
+			time: 2
 
 sun.blur = 2
 
@@ -41,4 +46,29 @@ cloud.states.night =
 sun.animate("night")
 sky.animate("night")
 cloud.animate("night")
-	
+
+# 给图层添加动画
+animationCloud = new Animation cloud,
+	x: 220
+	brightness: 100
+	options:
+		time: 2
+
+animationSun = new Animation sun,
+	rotation: 240
+	x: 162
+	backgroundColor: "#FCB62C"
+	options:
+		time: 2
+ 
+animationSky = new Animation sky,
+	backgroundColor: "#29BBFF"
+	options:
+		time: 2
+
+Utils.delay 4, ->
+	animationCloud.start()
+	animationSun.start()
+	animationSky.start()
+	for i in [0..7]
+		animationLight[i].start()
