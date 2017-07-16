@@ -1,0 +1,56 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "#-X*eZhO",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "__class" : "SVGNode",
+        "fillType" : "color",
+        "originalFilename" : "keyboard_arrow_left",
+        "centerAnchorX" : 0,
+        "parentid" : "#-X*eZhO",
+        "rotation" : 0,
+        "locked" : false,
+        "intrinsicWidth" : 24,
+        "top" : 4,
+        "right" : null,
+        "intrinsicHeight" : 24,
+        "name" : "left",
+        "shadows" : [
+          {
+            "y" : 2,
+            "enabled" : false,
+            "blur" : 5,
+            "x" : 0,
+            "__class" : "Shadow",
+            "color" : "rgba(0,0,0,0.25)"
+          }
+        ],
+        "aspectRatioLocked" : true,
+        "id" : "(&!K6Y9g",
+        "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z\"><\/path><\/svg>",
+        "constraintsLocked" : false,
+        "left" : 2,
+        "bottom" : null,
+        "height" : 36,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "width" : 36,
+        "widthFactor" : null,
+        "targetName" : "left",
+        "heightFactor" : null,
+        "fillColor" : "rgb(255, 255, 255)",
+        "opacity" : 1,
+        "centerAnchorY" : 0,
+        "visible" : true
+      }
+    ]
+  }
+}
