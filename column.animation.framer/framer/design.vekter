@@ -1,0 +1,208 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "P\/hZNWX;",
+    "fillColor" : "#fff",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "pr+jmnJR",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "P\/hZNWX;",
+        "width" : 1024,
+        "y" : 0,
+        "deviceType" : "apple-ipad-air-2-space-gray",
+        "children" : [
+          {
+            "__class" : "OvalNode",
+            "locked" : false,
+            "centerAnchorX" : 0.2548828125,
+            "parentid" : "pr+jmnJR",
+            "rotation" : 0,
+            "top" : 162,
+            "borderWidth" : 1,
+            "right" : null,
+            "borderEnabled" : false,
+            "children" : [
+
+            ],
+            "name" : "sun",
+            "aspectRatioLocked" : true,
+            "fillColorEnabled" : true,
+            "id" : "D)74Lt6T",
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "constraintsLocked" : false,
+            "left" : 161,
+            "bottom" : null,
+            "height" : 200,
+            "opacity" : 1,
+            "width" : 200,
+            "widthFactor" : null,
+            "targetName" : "sun",
+            "heightFactor" : null,
+            "fillColor" : "rgb(252, 182, 44)",
+            "borderColor" : "#222",
+            "centerAnchorY" : 0.3411458333333333,
+            "visible" : true,
+            "clip" : false
+          },
+          {
+            "radiusBottomLeft" : 48,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "k()eXife",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(255, 255, 255)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 214,
+            "locked" : false,
+            "radius" : 48,
+            "boxShadows" : [
+              {
+                "x" : -5,
+                "color" : "rgba(0, 0, 0, 0.2)",
+                "enabled" : true,
+                "y" : 5,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 30
+              }
+            ],
+            "centerAnchorX" : 0.373046875,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 48,
+            "children" : [
+              {
+                "__class" : "OvalNode",
+                "locked" : false,
+                "centerAnchorX" : 0.6681547619047619,
+                "parentid" : "k()eXife",
+                "rotation" : 0,
+                "top" : -85,
+                "borderWidth" : 1,
+                "right" : 23,
+                "borderEnabled" : false,
+                "children" : [
+
+                ],
+                "name" : "cloud_2",
+                "aspectRatioLocked" : true,
+                "fillColorEnabled" : true,
+                "id" : "1k61v4oe",
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : 0,
+                "height" : 177,
+                "opacity" : 1,
+                "width" : 177,
+                "widthFactor" : null,
+                "targetName" : "cloud_2",
+                "heightFactor" : null,
+                "fillColor" : "rgb(255, 255, 255)",
+                "borderColor" : "#222",
+                "centerAnchorY" : 0.03804347826086957,
+                "visible" : true,
+                "clip" : false
+              },
+              {
+                "__class" : "OvalNode",
+                "locked" : false,
+                "centerAnchorX" : 0.40625,
+                "parentid" : "k()eXife",
+                "rotation" : 0,
+                "top" : -43,
+                "borderWidth" : 1,
+                "right" : null,
+                "borderEnabled" : false,
+                "children" : [
+
+                ],
+                "name" : "cloud_1",
+                "aspectRatioLocked" : true,
+                "fillColorEnabled" : true,
+                "id" : "9:3v;weL",
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "constraintsLocked" : false,
+                "left" : 88,
+                "bottom" : null,
+                "height" : 97,
+                "opacity" : 1,
+                "width" : 97,
+                "widthFactor" : null,
+                "targetName" : "cloud_1",
+                "heightFactor" : null,
+                "fillColor" : "rgb(255, 255, 255)",
+                "borderColor" : "#222",
+                "centerAnchorY" : 0.05978260869565218,
+                "visible" : true,
+                "clip" : false
+              }
+            ],
+            "parentid" : "pr+jmnJR",
+            "borderRight" : 1,
+            "name" : "cloud",
+            "height" : 92,
+            "borderWidth" : 1,
+            "top" : 326,
+            "borderTop" : 1,
+            "radiusTopRight" : 48,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.484375,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 48,
+            "targetName" : "cloud",
+            "bottom" : null,
+            "width" : 336
+          }
+        ],
+        "height" : 768,
+        "fillColor" : "rgb(41, 187, 255)",
+        "targetName" : "sky",
+        "name" : "sky"
+      }
+    ]
+  }
+}
