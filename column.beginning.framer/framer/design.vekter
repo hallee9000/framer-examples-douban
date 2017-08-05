@@ -1,5 +1,5 @@
 {
-  "version" : 0,
+  "version" : 2,
   "root" : {
     "id" : "!Fs(Cq%x",
     "fillColor" : "#fff",
@@ -14,13 +14,19 @@
         "width" : 320,
         "y" : 0,
         "deviceType" : "apple-iphone-5s-space-gray",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
         "children" : [
           {
             "radiusBottomLeft" : 0,
             "rotation" : 0,
-            "fillColorEnabled" : true,
-            "id" : ".A%hO\/&g",
             "__class" : "RectangleNode",
+            "id" : ".A%hO\/&g",
             "fillColor" : "rgb(17, 153, 238)",
             "aspectRatioLocked" : false,
             "widthFactor" : null,
@@ -29,6 +35,13 @@
             "borderColor" : "#222",
             "left" : 0,
             "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
             "radius" : 0,
             "boxShadows" : [
               {
@@ -43,15 +56,17 @@
             ],
             "centerAnchorX" : 0.5,
             "borderPerSide" : false,
+            "fillType" : "color",
             "radiusBottomRight" : 0,
             "children" : [
               {
                 "__class" : "SVGNode",
+                "fillType" : "color",
                 "originalFilename" : "chevron_left",
-                "locked" : false,
                 "centerAnchorX" : 0.053125,
                 "parentid" : ".A%hO\/&g",
                 "rotation" : 0,
+                "locked" : false,
                 "intrinsicWidth" : 24,
                 "top" : null,
                 "right" : null,
@@ -74,14 +89,21 @@
                 "left" : 5,
                 "bottom" : null,
                 "height" : 24,
-                "opacity" : 1,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
                 "width" : 24,
                 "widthFactor" : null,
                 "targetName" : null,
                 "heightFactor" : null,
                 "fillColor" : "rgb(255, 255, 255)",
-                "visible" : true,
-                "centerAnchorY" : 0.5
+                "opacity" : 1,
+                "centerAnchorY" : 0.5,
+                "visible" : true
               },
               {
                 "__class" : "TextNode",
@@ -171,6 +193,7 @@
                 "autoSize" : true
               }
             ],
+            "fillEnabled" : true,
             "parentid" : "Ga-4VOH|",
             "borderRight" : 1,
             "name" : "topBar",
@@ -195,8 +218,9 @@
           }
         ],
         "height" : 568,
-        "fillColor" : "#ffffff",
+        "fillType" : "color",
         "targetName" : null,
+        "fillColor" : "#ffffff",
         "name" : null
       }
     ]

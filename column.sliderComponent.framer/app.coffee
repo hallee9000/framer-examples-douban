@@ -10,7 +10,7 @@ slider = new SliderComponent
 	width: 300
 	backgroundColor: "#333"
 
-slider.knob.backgroundColor = "#666"
+slider.knob.backgroundColor = "#AAA"
 slider.fill.backgroundColor = "#AAA"
 
 # 创建需要被调整的图片图层
@@ -43,7 +43,6 @@ for i in [0...buttons.length]
 slider.onValueChange ->
 	picture[currentTuning] = Utils.modulate(slider.value, [0, 1], ranges[currentIndex] )
 
-# 设置初始值
-slider.value = Utils.modulate(picture.brightness, [0, 200], [0,1] )
-buttons[0].opacity = 0.5
+
+
 

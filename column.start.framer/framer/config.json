@@ -1,17 +1,21 @@
 {
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "deviceType" : "fullscreen",
+  "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
     "Filters" : false
   },
+  "projectId" : "B1E41C5A-919F-4A0A-B618-B8FA56DDCA4D",
   "deviceOrientation" : 0,
-  "sharedPrototype" : 0,
-  "contentScale" : 1,
-  "deviceType" : "fullscreen",
   "selectedHand" : "",
-  "updateDelay" : 0.3,
-  "deviceScale" : 1,
+  "showBezel" : 0,
   "foldedCodeRanges" : [
 
   ],
-  "orientation" : 0,
-  "projectId" : "B1E41C5A-919F-4A0A-B618-B8FA56DDCA4D"
+  "deviceScale" : 1
 }
