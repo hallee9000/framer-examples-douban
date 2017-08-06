@@ -5,7 +5,2528 @@
     "__class" : "CanvasNode",
     "parentid" : null,
     "children" : [
+      {
+        "id" : "r?rFJ;<l",
+        "__class" : "FrameNode",
+        "x" : 1425,
+        "parentid" : "EQ_K37K8",
+        "width" : 375,
+        "y" : 802,
+        "deviceType" : null,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5,
+            "parentid" : "r?rFJ;<l",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 18,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 142,
+                      "style" : "COLOR:rgb(51, 51, 51)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
 
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "A completely new story from the Monument Valley universe. You don’t need to have previously played Monument Valley to enjoy Monument Valley 2.",
+                  "key" : "acd3o",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "6gd20",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 146,
+                      "style" : "COLOR:rgb(51, 51, 51)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "Enjoy beautiful levels filled with illusory, meditative puzzles, using brand new interactions to explore the changing dynamics between characters.",
+                  "key" : "3n5tr",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "2c558",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 160,
+                      "style" : "COLOR:rgb(51, 51, 51)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "Artwork inspired by an eclectic mixture of architectural styles, artistic movements and personal influences, each translated into stunning geometric structures.",
+                  "key" : "ffm4l",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "3nv74",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 125,
+                      "style" : "COLOR:rgb(51, 51, 51)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "Immerse yourself in uniquely melodic interactive soundscapes, tailored perfectly to every step of Ro and her child’s journey.",
+                  "key" : "7oqo",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "5temm",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 1340,
+                      "style" : "COLOR:rgb(51, 51, 51)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+                  "key" : "8pcdq",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "1ndh3",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(51, 51, 51)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "abmnp",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : "monumentDetail",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "-\/<(:kq.",
+            "x" : 23,
+            "constraintsLocked" : false,
+            "left" : 18,
+            "bottom" : 53,
+            "height" : 1010,
+            "opacity" : 1,
+            "width" : 339,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.5912087912087912,
+            "autoSize" : false,
+            "y" : 164
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "TlWl-F_%",
+            "fillColor" : "rgba(131, 93, 93, 0)",
+            "aspectRatioLocked" : false,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : true,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0, 0, 0, 0.22)",
+                "enabled" : false,
+                "y" : 12,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 14
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.5,
+                "parentid" : "TlWl-F_%",
+                "rotation" : 0,
+                "top" : null,
+                "right" : 18,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 51,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 51,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 51,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 51,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 51,
+                          "style" : "SIZE:20",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgb(255, 255, 255)",
+                          "SIZE:20"
+                        ]
+                      },
+                      "text" : "Inside the extraordinary world of Monument Valley 2",
+                      "key" : "acd3o",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "tip",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "bRF>P)}}",
+                "x" : 52,
+                "constraintsLocked" : false,
+                "left" : 18,
+                "bottom" : 22,
+                "height" : 44,
+                "opacity" : 1,
+                "width" : 292,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.8880407124681934,
+                "autoSize" : false,
+                "y" : 293
+              },
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.4054878048780488,
+                "parentid" : "TlWl-F_%",
+                "rotation" : 0,
+                "top" : 35,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 14,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "SIZE:28",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "COLOR:#000000",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "SIZE:28"
+                        ]
+                      },
+                      "text" : "The Art of the",
+                      "key" : "acd3o",
+                      "type" : "unstyled"
+                    },
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 10,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "SIZE:28",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgb(255, 255, 255)",
+                          "SIZE:28"
+                        ]
+                      },
+                      "text" : "Impossible",
+                      "key" : "5npju",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "desc",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "]%@=qI;=",
+                "x" : 16,
+                "constraintsLocked" : false,
+                "left" : 18,
+                "bottom" : null,
+                "height" : 63,
+                "opacity" : 1,
+                "width" : 230,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.1692111959287532,
+                "autoSize" : false,
+                "y" : 32
+              },
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.4009146341463415,
+                "parentid" : "TlWl-F_%",
+                "rotation" : 0,
+                "top" : 16,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 14,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "SIZE:16",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "COLOR:rgba(255, 255, 255, 0.7)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "COLOR:#000000",
+                          "SIZE:16",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2"
+                        ]
+                      },
+                      "text" : "WORLD PREMIERE",
+                      "key" : "acd3o",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "title",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "'THr.FNV",
+                "x" : 16,
+                "constraintsLocked" : false,
+                "left" : 18,
+                "bottom" : null,
+                "height" : 25,
+                "opacity" : 1,
+                "width" : 227,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.07251908396946564,
+                "autoSize" : false,
+                "y" : 11
+              }
+            ],
+            "fillEnabled" : false,
+            "parentid" : "r?rFJ;<l",
+            "borderRight" : 1,
+            "image" : "mx6c24SRCb1FXJArCZnoXyfZKRmVxbHaFYE7MmthGGjhAHOMTidYJppdeLxbAuUJzMLvQmP1u67Av78fYw",
+            "name" : "poster",
+            "height" : 280,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 196,
+            "borderBottom" : 1,
+            "originalFilename" : "screen696x696.jpeg",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.1078582434514638,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 249.5,
+            "radiusTopLeft" : 0,
+            "targetName" : "poster",
+            "bottom" : null,
+            "width" : 375
+          }
+        ],
+        "height" : 1365,
+        "fillType" : "color",
+        "targetName" : "today_detail",
+        "fillColor" : "#ffffff",
+        "name" : "today-detail"
+      },
+      {
+        "id" : "43xaim;[",
+        "__class" : "FrameNode",
+        "x" : 1900,
+        "parentid" : "EQ_K37K8",
+        "width" : 375,
+        "y" : 35,
+        "deviceType" : null,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "7V2?Aj1]",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : "43xaim;[",
+            "borderRight" : 1,
+            "image" : "lepB26JLY6JjKn5NQofUVosXdbSHzga5DTuxxDNpywYX6vpLoM9uKIm6C6SLfqPtPdR8ULwGvsve9lbz4qFag.jpg",
+            "name" : "detailImage",
+            "height" : 2164,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 375,
+            "borderBottom" : 1,
+            "originalFilename" : "App-Detailpage.jpg",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.4575052854122622,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 2164,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 375
+          }
+        ],
+        "height" : 2164,
+        "fillType" : "color",
+        "targetName" : "detailContent",
+        "fillColor" : "#ffffff",
+        "name" : "detailContent"
+      },
+      {
+        "id" : "5TVae*D~",
+        "__class" : "FrameNode",
+        "x" : 1425,
+        "parentid" : "EQ_K37K8",
+        "width" : 375,
+        "y" : 35,
+        "deviceType" : "apple-iphone-7-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "z\/v:,ua^",
+            "fillColor" : "rgba(255, 255, 255, 0.9)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : true,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "RectangleNode",
+                "id" : "P(}~N\/[n",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : -3,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.1066666666666667,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 0,
+                "children" : [
+                  {
+                    "__class" : "SVGNode",
+                    "fillType" : "color",
+                    "originalFilename" : "chevron-left",
+                    "centerAnchorX" : 0.2034883720930233,
+                    "parentid" : "P(}~N\/[n",
+                    "rotation" : 0,
+                    "locked" : false,
+                    "intrinsicWidth" : 24,
+                    "top" : 0,
+                    "right" : null,
+                    "intrinsicHeight" : 24,
+                    "name" : "back icon",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "aspectRatioLocked" : true,
+                    "id" : "MPCa4r4,",
+                    "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-chevron-left\"><polyline points=\"15 18 9 12 15 6\"><\/polyline><\/svg>",
+                    "constraintsLocked" : false,
+                    "left" : 0,
+                    "bottom" : 0,
+                    "height" : 35,
+                    "fillGradient" : {
+                      "end" : "rgba(0,0,0,0)",
+                      "alpha" : 1,
+                      "angle" : 0,
+                      "__class" : "LinearGradient",
+                      "start" : "black"
+                    },
+                    "width" : 35,
+                    "widthFactor" : null,
+                    "targetName" : null,
+                    "heightFactor" : null,
+                    "fillColor" : "rgb(21, 126, 251)",
+                    "opacity" : 1,
+                    "centerAnchorY" : 0.5,
+                    "visible" : true
+                  },
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.6976744186046512,
+                    "parentid" : "P(}~N\/[n",
+                    "rotation" : 0,
+                    "top" : null,
+                    "right" : 0,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 4,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "SIZE:16",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "COLOR:rgb(21, 126, 251)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "COLOR:#000000",
+                              "SIZE:16",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2"
+                            ]
+                          },
+                          "text" : "Apps",
+                          "key" : "acd3o",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : null,
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "K8;KcX%H",
+                    "x" : 26,
+                    "constraintsLocked" : false,
+                    "left" : null,
+                    "bottom" : 3,
+                    "height" : 25,
+                    "opacity" : 1,
+                    "width" : 52,
+                    "widthFactor" : null,
+                    "targetName" : null,
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.5571428571428572,
+                    "autoSize" : false,
+                    "y" : 11
+                  }
+                ],
+                "fillEnabled" : true,
+                "parentid" : "z\/v:,ua^",
+                "borderRight" : 1,
+                "name" : "backToApps",
+                "height" : 35,
+                "borderWidth" : 1,
+                "top" : 5,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5113636363636364,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 0,
+                "targetName" : "backToApps",
+                "bottom" : 4,
+                "width" : 86
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "RectangleNode",
+                "id" : ",VsZde:I",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 0,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : null,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.7026666666666667,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 0,
+                "children" : [
+                  {
+                    "radiusBottomLeft" : 0,
+                    "rotation" : 0,
+                    "__class" : "ImageNode",
+                    "id" : "a9n39*K$",
+                    "fillColor" : "transparent",
+                    "aspectRatioLocked" : true,
+                    "imageBackgroundSize" : "Cover",
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "clip" : false,
+                    "borderColor" : "#222",
+                    "left" : 0,
+                    "locked" : false,
+                    "radius" : 0,
+                    "boxShadows" : [
+                      {
+                        "x" : 0,
+                        "color" : "rgba(0,0,0,0.25)",
+                        "enabled" : false,
+                        "y" : 2,
+                        "__class" : "BoxShadow",
+                        "inset" : false,
+                        "blur" : 5
+                      }
+                    ],
+                    "centerAnchorX" : 0.09947643979057591,
+                    "borderPerSide" : false,
+                    "radiusBottomRight" : 0,
+                    "children" : [
+
+                    ],
+                    "fillEnabled" : false,
+                    "parentid" : ",VsZde:I",
+                    "borderRight" : 1,
+                    "image" : "5MzGFvUzj3MujfbxTcNAMJ0xs8Dp2AXvKlEdKrkTyVUHY8tUbtpy7JlorsJPOtV0Dn5G7OmbLHsNuCy7ig.png",
+                    "name" : null,
+                    "height" : 38,
+                    "borderWidth" : 1,
+                    "top" : 0,
+                    "borderTop" : 1,
+                    "radiusTopRight" : 0,
+                    "intrinsicWidth" : 38,
+                    "borderBottom" : 1,
+                    "originalFilename" : "App-Icon.png",
+                    "borderEnabled" : false,
+                    "constraintsLocked" : false,
+                    "right" : null,
+                    "radiusPerCorner" : false,
+                    "centerAnchorY" : 0.5,
+                    "visible" : true,
+                    "borderLeft" : 1,
+                    "heightFactor" : null,
+                    "intrinsicHeight" : 38,
+                    "radiusTopLeft" : 0,
+                    "targetName" : null,
+                    "bottom" : 0,
+                    "width" : 38
+                  },
+                  {
+                    "radiusBottomLeft" : 0,
+                    "rotation" : 0,
+                    "__class" : "ImageNode",
+                    "id" : "N&a'aD;_",
+                    "fillColor" : "transparent",
+                    "aspectRatioLocked" : true,
+                    "imageBackgroundSize" : "Cover",
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "clip" : false,
+                    "borderColor" : "#222",
+                    "left" : null,
+                    "locked" : false,
+                    "radius" : 0,
+                    "boxShadows" : [
+                      {
+                        "x" : 0,
+                        "color" : "rgba(0,0,0,0.25)",
+                        "enabled" : false,
+                        "y" : 2,
+                        "__class" : "BoxShadow",
+                        "inset" : false,
+                        "blur" : 5
+                      }
+                    ],
+                    "centerAnchorX" : 0.6858638743455497,
+                    "borderPerSide" : false,
+                    "radiusBottomRight" : 0,
+                    "children" : [
+
+                    ],
+                    "fillEnabled" : false,
+                    "parentid" : ",VsZde:I",
+                    "borderRight" : 1,
+                    "image" : "yZird0Rm1LrBJJUIb1TMf0CqkZvnau7gAU5BRSeHpwslEBlK18kx92fRCdozDQP0EGVWVTUENUEIuJcykoA.png",
+                    "name" : null,
+                    "height" : 25,
+                    "borderWidth" : 1,
+                    "top" : 6,
+                    "borderTop" : 1,
+                    "radiusTopRight" : 0,
+                    "intrinsicWidth" : 140,
+                    "borderBottom" : 1,
+                    "originalFilename" : "BTN-Group.png",
+                    "borderEnabled" : false,
+                    "constraintsLocked" : false,
+                    "right" : 0,
+                    "radiusPerCorner" : false,
+                    "centerAnchorY" : 0.4868421052631579,
+                    "visible" : true,
+                    "borderLeft" : 1,
+                    "heightFactor" : null,
+                    "intrinsicHeight" : 29,
+                    "radiusTopLeft" : 0,
+                    "targetName" : null,
+                    "bottom" : 7,
+                    "width" : 120
+                  }
+                ],
+                "fillEnabled" : true,
+                "parentid" : "z\/v:,ua^",
+                "borderRight" : 1,
+                "name" : "shortcutGroup",
+                "height" : 38,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 16,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.8863636363636364,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 0,
+                "targetName" : "shortcutGroup",
+                "bottom" : -14,
+                "width" : 191
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "5TVae*D~",
+            "borderRight" : 1,
+            "name" : "detailTopbar",
+            "height" : 44,
+            "borderWidth" : 1,
+            "top" : 20,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.06296851574212893,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "detailTopbar",
+            "bottom" : null,
+            "width" : 375
+          }
+        ],
+        "height" : 667,
+        "fillType" : "color",
+        "targetName" : "app_detail",
+        "fillColor" : "#ffffff",
+        "name" : "app-detail"
+      },
+      {
+        "id" : ";o*26h8m",
+        "__class" : "FrameNode",
+        "x" : 950,
+        "parentid" : "EQ_K37K8",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : null,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "~{U_Jt,[",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 16,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.4893333333333333,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : ";o*26h8m",
+            "borderRight" : 1,
+            "image" : "gKL7JntpGOJXHsMuaClKQhFhzWQRoQN6ZhsJlZmxrDXZjmgDjS5LiAtNYR6ttSWZJfnu9OoaZpepl23nF7sRQQ.png",
+            "name" : null,
+            "height" : 303,
+            "borderWidth" : 1,
+            "top" : 113,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 335,
+            "borderBottom" : 1,
+            "originalFilename" : "Game #1.png",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 24,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.2598231827111984,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 303,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 335
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : ":XXL[_h=",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 1.417333333333333,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : ";o*26h8m",
+            "borderRight" : 1,
+            "image" : "gKL7JntpGOJXHsMuaClKQhFhzWQRoQN6ZhsJlZmxrDXZjmgDjS5LiAtNYR6ttSWZJfnu9OoaZpepl23nF7sRQQ.png",
+            "name" : null,
+            "height" : 303,
+            "borderWidth" : 1,
+            "top" : 113,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 335,
+            "borderBottom" : 1,
+            "originalFilename" : "Game #1.png",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : -324,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.2598231827111984,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 303,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 335
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.2466666666666667,
+            "parentid" : ";o*26h8m",
+            "rotation" : 0,
+            "top" : 36,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(161, 161, 161)"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "acd3o",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "COLOR:rgb(31, 31, 31)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "SIZE:36",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(161, 161, 161)"
+                    ]
+                  },
+                  "text" : "Games",
+                  "key" : "f1trt",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "tLRH?g|h",
+            "x" : 20,
+            "constraintsLocked" : false,
+            "left" : 14,
+            "bottom" : null,
+            "height" : 71,
+            "opacity" : 1,
+            "width" : 157,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.04747675962815405,
+            "autoSize" : false,
+            "y" : 43
+          },
+          {
+            "radiusBottomLeft" : 26,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "9iZlE&:Y",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "radius" : 26,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.9066666666666666,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 26,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : ";o*26h8m",
+            "borderRight" : 1,
+            "image" : "2eYI8s3Q8CAa0XLpnVii7WSdjEoaOPMwVkJGl6Vw1oGClC4STqGgbgMBP2fBpzS8cjl4ij3aVenLWFJQ",
+            "name" : "avatar",
+            "height" : 40,
+            "borderWidth" : 1,
+            "top" : 52,
+            "borderTop" : 1,
+            "radiusTopRight" : 26,
+            "intrinsicWidth" : 320,
+            "borderBottom" : 1,
+            "originalFilename" : "avatar-new.jpg",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 15,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.1079460269865068,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 320,
+            "radiusTopLeft" : 26,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 40
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "kdT9OwAG",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 20,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : ";o*26h8m",
+            "borderRight" : 1,
+            "image" : "wSv61qeeaoNAZoQDJcNjlNu4j18FREHZWVHEixSMEuLb2gO3XD9m0uyL9xAZijuCSDWGfbkDKFYOob21yUg.png",
+            "name" : null,
+            "height" : 506,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 335,
+            "borderBottom" : 1,
+            "originalFilename" : "New Games We Love.png",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 20,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.6714285714285714,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 506,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : 92,
+            "width" : 335
+          }
+        ],
+        "height" : 1050,
+        "fillType" : "color",
+        "targetName" : "games",
+        "fillColor" : "#ffffff",
+        "name" : "games"
+      },
+      {
+        "id" : "R(DtBqMT",
+        "__class" : "FrameNode",
+        "x" : 477,
+        "parentid" : "EQ_K37K8",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : null,
+        "type" : "apple-iphone-7-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "r':}Dc1c",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 8,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.4973333333333333,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : "R(DtBqMT",
+            "borderRight" : 1,
+            "image" : "Yrs3Zg3YIwSmlcf6MAN1kqSSNyRiCuELRf5BL4ICyS4wWCCX1X3wChfN2M1fvP5cEjKvyukvS7mqAAgum4Tcg.png",
+            "name" : "polaroids",
+            "height" : 437,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 363,
+            "borderBottom" : 1,
+            "originalFilename" : "Card-02.png",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 10,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.8503472222222223,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 441,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : -3,
+            "width" : 357
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "(BqwhGB-",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 8,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.4973333333333333,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : "R(DtBqMT",
+            "borderRight" : 1,
+            "image" : "dvotVLQBGziJaGVxSVZPpLDftdES71HbyRenbmU66dw5yQwrK13a3XT0tiB3WAejvZwHTCse8ZLQ0K2QpA.png",
+            "name" : "geometrics",
+            "height" : 433,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 363,
+            "borderBottom" : 1,
+            "originalFilename" : "Card-04.png",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 10,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5385416666666667,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 441,
+            "radiusTopLeft" : 0,
+            "targetName" : "geometrics",
+            "bottom" : 448,
+            "width" : 357
+          },
+          {
+            "radiusBottomLeft" : 15,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "T)Ae=n{:",
+            "fillColor" : "rgb(255, 255, 255)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : true,
+            "borderColor" : "#222",
+            "left" : 24,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 15,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0, 0, 0, 0.22)",
+                "enabled" : true,
+                "y" : 12,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 14
+              }
+            ],
+            "centerAnchorX" : 0.5013333333333333,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 15,
+            "children" : [
+              {
+                "__class" : "OvalNode",
+                "fillType" : "color",
+                "locked" : false,
+                "centerAnchorX" : 0.9085365853658537,
+                "parentid" : "T)Ae=n{:",
+                "rotation" : 0,
+                "fillEnabled" : true,
+                "top" : 17,
+                "borderWidth" : 1,
+                "right" : 15,
+                "borderEnabled" : false,
+                "children" : [
+                  {
+                    "__class" : "SVGNode",
+                    "fillType" : "color",
+                    "originalFilename" : "x",
+                    "centerAnchorX" : 0.5,
+                    "parentid" : "T|tL5W`s",
+                    "rotation" : 0,
+                    "locked" : false,
+                    "intrinsicWidth" : 24,
+                    "top" : null,
+                    "right" : null,
+                    "intrinsicHeight" : 24,
+                    "name" : null,
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "aspectRatioLocked" : true,
+                    "id" : "<Y2#AqGB",
+                    "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg>",
+                    "constraintsLocked" : false,
+                    "left" : null,
+                    "bottom" : null,
+                    "height" : 18,
+                    "fillGradient" : {
+                      "end" : "rgba(0,0,0,0)",
+                      "alpha" : 1,
+                      "angle" : 0,
+                      "__class" : "LinearGradient",
+                      "start" : "black"
+                    },
+                    "width" : 18,
+                    "widthFactor" : null,
+                    "targetName" : null,
+                    "heightFactor" : null,
+                    "fillColor" : "rgb(255, 255, 255)",
+                    "opacity" : 1,
+                    "centerAnchorY" : 0.5,
+                    "visible" : true
+                  }
+                ],
+                "name" : "monumentClose",
+                "aspectRatioLocked" : true,
+                "id" : "T|tL5W`s",
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 30,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "width" : 30,
+                "widthFactor" : null,
+                "targetName" : "monumentClose",
+                "heightFactor" : null,
+                "fillColor" : "rgba(0, 0, 0, 0.3)",
+                "borderColor" : "#222",
+                "centerAnchorY" : 0.08142493638676845,
+                "opacity" : 0,
+                "visible" : true,
+                "clip" : false
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "R(DtBqMT",
+            "borderRight" : 1,
+            "name" : "monument",
+            "height" : 393,
+            "borderWidth" : 1,
+            "top" : 128,
+            "borderTop" : 1,
+            "radiusTopRight" : 15,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 23,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.2253472222222222,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 15,
+            "targetName" : "monument",
+            "bottom" : null,
+            "width" : 328
+          },
+          {
+            "radiusBottomLeft" : 26,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : ".=O>f?so",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "radius" : 26,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.8773333333333333,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 26,
+            "children" : [
+
+            ],
+            "fillEnabled" : false,
+            "parentid" : "R(DtBqMT",
+            "borderRight" : 1,
+            "image" : "2eYI8s3Q8CAa0XLpnVii7WSdjEoaOPMwVkJGl6Vw1oGClC4STqGgbgMBP2fBpzS8cjl4ij3aVenLWFJQ",
+            "name" : "avatar",
+            "height" : 40,
+            "borderWidth" : 1,
+            "top" : 52,
+            "borderTop" : 1,
+            "radiusTopRight" : 26,
+            "intrinsicWidth" : 320,
+            "borderBottom" : 1,
+            "originalFilename" : "avatar-new.jpg",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 26,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.05,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 320,
+            "radiusTopLeft" : 26,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 40
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.2546666666666667,
+            "parentid" : "R(DtBqMT",
+            "rotation" : 0,
+            "top" : 36,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 13,
+                      "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "SIZE:16",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 13,
+                      "style" : "COLOR:rgb(161, 161, 161)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(161, 161, 161)"
+                    ]
+                  },
+                  "text" : "Sunday, Aug 5",
+                  "key" : "acd3o",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 5,
+                      "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "COLOR:rgb(31, 31, 31)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 5,
+                      "style" : "SIZE:36",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(161, 161, 161)"
+                    ]
+                  },
+                  "text" : "Today",
+                  "key" : "f1trt",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : ">I#O$7Rm",
+            "x" : 20,
+            "constraintsLocked" : false,
+            "left" : 17,
+            "bottom" : null,
+            "height" : 71,
+            "opacity" : 1,
+            "width" : 157,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.04747675962815405,
+            "autoSize" : false,
+            "y" : 43
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "tA>yW<iq",
+            "fillColor" : "rgba(251, 251, 251, 0.9)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "rgb(224, 224, 224)",
+            "left" : 0,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : true,
+            "fillType" : "color",
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "ImageNode",
+                "id" : "wx>$MbRx",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 14,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.07066666666666667,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : false,
+                "parentid" : "tA>yW<iq",
+                "borderRight" : 1,
+                "image" : "i5jBU6lmH6IVVJaW7GN049Mjme9izAyklKsjNKcc6N5ahqJlvlJM0R2xNKImHAaq7qL0OLvV5jbN8Bm97FA.png",
+                "name" : "todayIcon",
+                "height" : 33,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 28,
+                "borderBottom" : 1,
+                "originalFilename" : "Tab 1.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.57,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 37,
+                "radiusTopLeft" : 0,
+                "targetName" : "todayIcon",
+                "bottom" : 5,
+                "width" : 25
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "ImageNode",
+                "id" : "dJn&<U#:",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 91,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.28,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : false,
+                "parentid" : "tA>yW<iq",
+                "borderRight" : 1,
+                "image" : "lKQecY4iWZj7xv85FBBl5qtY23jH0i2c1QLqBhtCdEhABDDfhqbZ3BRSYCpCD5Et3k5Y5qDfDAzMLV433GPw.png",
+                "name" : "gamesIcon",
+                "height" : 33,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 32,
+                "borderBottom" : 1,
+                "originalFilename" : "Tab 2.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.57,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 36,
+                "radiusTopLeft" : 0,
+                "targetName" : "gamesIcon",
+                "bottom" : 5,
+                "width" : 28
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "ImageNode",
+                "id" : "1UA&,Jdp",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 171,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.4853333333333333,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : false,
+                "parentid" : "tA>yW<iq",
+                "borderRight" : 1,
+                "image" : "0Bl4no3jNBtyciplVX1xnQM4YRX1IlhkCTuY7zRYTghCBBhO6gqFLvrvar1a1Xo3V9DVaHuprJ456PekHPSw.png",
+                "name" : "appsIcon",
+                "height" : 33,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 24,
+                "borderBottom" : 1,
+                "originalFilename" : "Tab 3.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.57,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 37,
+                "radiusTopLeft" : 0,
+                "targetName" : "appsIcon",
+                "bottom" : 5,
+                "width" : 22
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "ImageNode",
+                "id" : "zLR`a,KJ",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : null,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.696,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : false,
+                "parentid" : "tA>yW<iq",
+                "borderRight" : 1,
+                "image" : "iNWRF3fvrljQWEAyKtzi3w9xa01Vm2DcpWScyv9YcWzk9x8pIIbmFyAQItxOGpZ7Bf2oUascENzsAechNalA.png",
+                "name" : "updatesIcon",
+                "height" : 33,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 38,
+                "borderBottom" : 1,
+                "originalFilename" : "Tab 4.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 97,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.57,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 37,
+                "radiusTopLeft" : 0,
+                "targetName" : "updatesIcon",
+                "bottom" : 5,
+                "width" : 34
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "ImageNode",
+                "id" : ">C@bQk3X",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : null,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.9186666666666666,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : false,
+                "parentid" : "tA>yW<iq",
+                "borderRight" : 1,
+                "image" : "ek5BKAUQfAbOA2K0InzNl9lehCcITOOn8XMDg55tTQhCG7s5stj9oo7EorsjxLRkPEbHAXCtCz6YnDhsBFdA.png",
+                "name" : "searchIcon",
+                "height" : 32,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 32,
+                "borderBottom" : 1,
+                "originalFilename" : "Tab 5.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 16,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5600000000000001,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 36,
+                "radiusTopLeft" : 0,
+                "targetName" : "searchIcon",
+                "bottom" : 6,
+                "width" : 29
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "R(DtBqMT",
+            "borderRight" : 0,
+            "name" : "footer",
+            "height" : 50,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 0,
+            "borderEnabled" : true,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.9833997343957503,
+            "visible" : true,
+            "borderLeft" : 0,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "footer",
+            "bottom" : 0,
+            "width" : 375
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "Nzdmo?(T",
+            "fillColor" : "rgba(255, 255, 255, 0.9)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "ImageNode",
+                "id" : "zx>{uqJv",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 6,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5013333333333333,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : false,
+                "parentid" : "Nzdmo?(T",
+                "borderRight" : 1,
+                "image" : "x4DgNpvpJRniK09eNXVw5a70isOl7QFk0QI9oqqMqFg83rkfXtrAAj0z7Em9oTzBVyxYK7GIoPGy1QodwFMVg.png",
+                "name" : null,
+                "height" : 14,
+                "borderWidth" : 1,
+                "top" : 3,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 364,
+                "borderBottom" : 1,
+                "originalFilename" : "Status Bar.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 5,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 14,
+                "radiusTopLeft" : 0,
+                "targetName" : null,
+                "bottom" : null,
+                "width" : 364
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "R(DtBqMT",
+            "borderRight" : 1,
+            "name" : "statusBar",
+            "height" : 20,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.006640106241699867,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "statusBar",
+            "bottom" : null,
+            "width" : 375
+          }
+        ],
+        "height" : 1440,
+        "fillType" : "color",
+        "targetName" : "today",
+        "fillColor" : "#ffffff",
+        "name" : "today"
+      }
     ]
   }
 }

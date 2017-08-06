@@ -11,6 +11,8 @@
 * [Framer 事件 | 和你的原型对话。](https://framer.cloud/HiAct)
 * [Framer 滚动组件 | 做时间的导演。](https://framer.cloud/iDOsE)
 * [Framer 页面组件 | 换一种方式切换歌曲。](https://framer.cloud/wmWZv)
+* [Framer 滑块组件 | 一个简单的图片编辑器。](https://framer.cloud/KLFCV)
+* [Framer 流组件 | 全新的 App Store。](https://framer.cloud/ozCNx)
 
 ## 免费试读文章目录
 
@@ -30,3 +32,4 @@
 * [Framer 事件 | 和你的原型对话。](https://github.com/leadream/framer-examples-douban/tree/master/column.event.framer)
 * [Framer 滚动组件 | 做时间的导演。](https://github.com/leadream/framer-examples-douban/tree/master/column.scrollComponent.framer)
 * [Framer 页面组件 | 换一种方式切换歌曲。](https://github.com/leadream/framer-examples-douban/tree/master/column.pageComponent.framer)
+* [Framer 流组件 | 全新的 App Store。](https://github.com/leadream/framer-examples-douban/tree/master/column.flowComponent.framer)
