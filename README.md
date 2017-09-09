@@ -36,7 +36,7 @@
 * [Framer 滚动组件 | 做时间的导演。](https://github.com/leadream/framer-examples-douban/tree/master/column.scrollComponent.framer)
 * [Framer 页面组件 | 换一种方式切换歌曲。](https://github.com/leadream/framer-examples-douban/tree/master/column.pageComponent.framer)
 * [Framer 滑块组件 | 一个简单的图片编辑器。](https://github.com/leadream/framer-examples-douban/tree/master/column.sliderComponent.framer)
-* [Framer 范围组件 | 定制一个价格筛选器。](https://github.com/leadream/framer-examples-douban/tree/master/column.rangeSlider.framer)
+* [Framer 范围组件 | 定制一个价格筛选器。](https://github.com/leadream/framer-examples-douban/tree/master/rangeSlider.framer)
 * [Framer 流组件 | 全新的 App Store。](https://github.com/leadream/framer-examples-douban/tree/master/column.flowComponent.framer)
 * [综合案例 | 包含多种交互手势的地图 App。](https://github.com/leadream/framer-examples-douban/tree/master/map.framer)
 
